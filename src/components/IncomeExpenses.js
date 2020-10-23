@@ -25,8 +25,7 @@ export default function IncomeExpenses() {
               .map((transaction) => transaction.amount)
               .filter((transaction) => transaction < 0)
               .reduce((a, b) => a + b, 0)
-              .toFixed(2)
-          )}
+          ).toFixed(2)}
         </p>
       </div>
     </div>
