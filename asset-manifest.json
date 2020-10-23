@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TrackerX/static/css/main.7268eac7.chunk.css",
-    "main.js": "/TrackerX/static/js/main.e4441e3d.chunk.js",
-    "main.js.map": "/TrackerX/static/js/main.e4441e3d.chunk.js.map",
+    "main.js": "/TrackerX/static/js/main.ee27866d.chunk.js",
+    "main.js.map": "/TrackerX/static/js/main.ee27866d.chunk.js.map",
     "runtime-main.js": "/TrackerX/static/js/runtime-main.8d66985e.js",
     "runtime-main.js.map": "/TrackerX/static/js/runtime-main.8d66985e.js.map",
     "static/js/2.b190f742.chunk.js": "/TrackerX/static/js/2.b190f742.chunk.js",
     "static/js/2.b190f742.chunk.js.map": "/TrackerX/static/js/2.b190f742.chunk.js.map",
     "index.html": "/TrackerX/index.html",
-    "precache-manifest.44d221b2c4620c1bf0fb370e3a412134.js": "/TrackerX/precache-manifest.44d221b2c4620c1bf0fb370e3a412134.js",
+    "precache-manifest.9fbebdf933cb05750099eda063cf2449.js": "/TrackerX/precache-manifest.9fbebdf933cb05750099eda063cf2449.js",
     "service-worker.js": "/TrackerX/service-worker.js",
     "static/css/main.7268eac7.chunk.css.map": "/TrackerX/static/css/main.7268eac7.chunk.css.map",
     "static/js/2.b190f742.chunk.js.LICENSE.txt": "/TrackerX/static/js/2.b190f742.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8d66985e.js",
     "static/js/2.b190f742.chunk.js",
     "static/css/main.7268eac7.chunk.css",
-    "static/js/main.e4441e3d.chunk.js"
+    "static/js/main.ee27866d.chunk.js"
   ]
 }
