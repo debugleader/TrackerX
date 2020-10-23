@@ -7,13 +7,15 @@ export default function AddTransaction() {
   const { addTransaction } = useContext(GlobalContext);
   const handleForm = (e) => {
     e.preventDefault();
-    addTransaction({
-      id: Math.floor(Math.random() * 1000),
-      text,
-      amount: +amount,
-    });
-    setText("");
-    setAmount(0);
+    if (text !== "" && amount !== 0) {
+      addTransaction({
+        id: Math.floor(Math.random() * 1000),
+        text,
+        amount: +amount,
+      });
+      setText("");
+      setAmount(0);
+    }
   };
   return (
     <>
