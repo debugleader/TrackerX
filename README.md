@@ -2,6 +2,12 @@
 
 Money management is always complicated and most of the time you get to wonder where did all of your money go, luckily, our simple personal TrackerX web app can help you by easily managing your money and keeping track of your expenses. You can stay on top of your money anytime, anywhere. TrackerX helps you track your financial activity efficiently because its simple design makes it lightweight, straightforward and very easy to use! 
 
+---
+
+> <img src="https://images.unsplash.com/photo-1575472782454-230f8dd14bd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="600"  />
+
+---
+
 # How can I try it?
 
 > ### Use the web hosted version.
